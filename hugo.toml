@@ -62,7 +62,8 @@ trackerID = "GA-000000000-0"
 title = "email"
 url = "mailto:sarabansalsabila@iut-dhaka.edu"
 icon = "fas fa-envelope-square"
-footer = falsesharethis = false
+footer = false
+sharethis = false
 network = "email"
 [[params.social]]
 title = "facebook"
