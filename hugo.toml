@@ -1,5 +1,4 @@
-#baseURL = "https://salsabilasara/portfolio/"
-
+baseURL = "https://salsabilasara/portfolio/"
 languageCode = "en"
 title = "Saraban Salsabila"
 theme = "hugo-initio"
@@ -17,7 +16,7 @@ background = ""
 banner = "images/bg_head_sara.jpeg"
 favicon = "images/gt_favicon.png"
 DateForm = ""
-author = "Sergey Pozhilov (GetTemplate.com)"
+author = ""
 
 showSubheader = true
 showServices = true
