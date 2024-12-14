@@ -62,8 +62,7 @@ trackerID = "GA-000000000-0"
 title = "email"
 url = "mailto:sarabansalsabila@iut-dhaka.edu"
 icon = "fas fa-envelope-square"
-footer = true
-sharethis = true
+footer = falsesharethis = false
 network = "email"
 [[params.social]]
 title = "facebook"
@@ -77,7 +76,7 @@ title = "twitter"
 url = "https://twitter.com/nickname"
 icon = "fab fa-twitter-square"
 footer = false
-sharethis = true
+sharethis = false
 network = "twitter"
 [[params.social]]
 title = "instagram"
@@ -97,7 +96,7 @@ network = "googleplus"
 title = "linkedin"
 url = "https://www.linkedin.com/in/saraban-salsabila"
 icon = "fab fa-linkedin"
-footer = false
+footer = true
 sharethis = true
 network = "linkedin"
 [[params.social]]
