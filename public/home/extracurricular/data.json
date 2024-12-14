@@ -3,21 +3,21 @@
         "id": 0,
         "name": "Sports",
         "image": "images/ec_0.jpg",
-        "url": "/portfolio-saraban-salsabila/home/extracurricular/extracurricular1",
+        "url": "/home/extracurricular/extracurricular1",
         "items": []
     },
     {
         "id": 1,
         "name": "Article writing competition",
         "image": "images/ec_writing.jpg",
-        "url": "/portfolio-saraban-salsabila/home/extracurricular/extracurricular2",
+        "url": "/home/extracurricular/extracurricular2",
         "items": []
     },
     {
         "id": 2,
         "name": "Affiliation",
         "image": "images/affiliation_0.JPG",
-        "url": "/portfolio-saraban-salsabila/home/extracurricular/extracurricular3",
+        "url": "/home/extracurricular/extracurricular3",
         "items": []
     }
 ]
