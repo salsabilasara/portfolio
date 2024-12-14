@@ -80,13 +80,6 @@ footer = false
 sharethis = false
 network = "twitter"
 [[params.social]]
-title = "instagram"
-url = "https://www.instagram.com/nickname"
-icon = "fab fa-instagram"
-footer = false
-sharethis = false
-network = ""
-[[params.social]]
 title = "google+"
 url = "https://plus.google.com/+nickname"
 icon = "fab fa-google-plus-square"
