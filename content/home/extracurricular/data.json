@@ -3,14 +3,14 @@
         "id": 0,
         "name": "Sports",
         "image": "images/ec_0.jpg",
-        "url": "/home/extracurricular/extracurricular1",
+        "url": "/portfolio/home/extracurricular/extracurricular1",
         "items": []
     },
     {
         "id": 1,
         "name": "Article writing competition",
         "image": "images/ec_writing.jpg",
-        "url": "/home/extracurricular/extracurricular2",
+        "url": "/portfolio/home/extracurricular/extracurricular2",
         "items": []
     },
     {
