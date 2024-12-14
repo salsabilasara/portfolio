@@ -124,7 +124,7 @@ network = "whatsapp"
 
 [[params.social]]
 title = "Telegram"
-url = "t.me/Sarabansa"
+url = "https://t.me/ssabila19"
 icon = "fab fa-telegram-plane"
 footer = true
 sharethis = true
