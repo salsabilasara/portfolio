@@ -91,7 +91,7 @@ title = "google+"
 url = "https://plus.google.com/+nickname"
 icon = "fab fa-google-plus-square"
 footer = false
-sharethis = true
+sharethis = false
 network = "googleplus"
 [[params.social]]
 title = "linkedin"
